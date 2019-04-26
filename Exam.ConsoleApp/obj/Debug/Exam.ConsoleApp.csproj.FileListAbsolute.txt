@@ -1,0 +1,12 @@
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\bin\Debug\Exam.ConsoleApp.exe.config
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\bin\Debug\Exam.ConsoleApp.exe
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\bin\Debug\Exam.ConsoleApp.pdb
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\bin\Debug\Dapper.dll
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\bin\Debug\dbup-core.dll
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\bin\Debug\dbup-sqlserver.dll
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\bin\Debug\Dapper.xml
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\obj\Debug\Exam.ConsoleApp.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\obj\Debug\Exam.ConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\obj\Debug\Exam.ConsoleApp.csproj.CopyComplete
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\obj\Debug\Exam.ConsoleApp.exe
+c:\users\скоропадиг.corp\source\repos\Exam\Exam.ConsoleApp\obj\Debug\Exam.ConsoleApp.pdb
